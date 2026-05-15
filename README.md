@@ -1,60 +1,59 @@
-# Customer Satisfaction Analysis: Data Cleaning & Forecasting
+# Product Sales Analysis: Nintendo Switch Case Study
 
 ## Project Overview
 
-This business analytics project focuses on analyzing airline customer satisfaction data to identify patterns, trends, and possible drivers of the customer experience. The project combines data cleaning, analysis, forecasting, and presentation-ready reporting to support better business decision-making.
+This business analytics project analyzes Nintendo Switch sales performance from 2017 to 2024. The project focuses on identifying sales trends, peak performance periods, regional performance differences, and business insights that can support product strategy and market decision-making.
 
-The repository includes a written project report and a presentation deck documenting the analysis.
+The repository includes a final PDF case study documenting the analysis.
 
 ## Repository Contents
 
 | File | Description |
 |---|---|
-| `In-depth Analysis of Airline Customer Satisfaction .pdf` | Final written analysis/report for the airline customer satisfaction project |
-| `Customer Satisfaction Analysis - PPT.pdf` | Presentation deck summarizing the project, findings, and recommendations |
+| `Nintendo Switch Case Study.pdf` | Final case study report analyzing Nintendo Switch sales performance |
 
 ## Business Problem
 
-Airline customer satisfaction is influenced by many service, operational, and customer-experience factors. This project explores customer satisfaction data to better understand which patterns may affect satisfaction levels and how those insights can support service improvement.
+Product sales performance changes over time based on market demand, product lifecycle, regional adoption, consumer behavior, and external business factors. This case study explores Nintendo Switch sales data to better understand how the product performed across years, quarters, and regions.
 
 ## Project Goals
 
-- Clean and prepare customer satisfaction data for analysis
-- Identify trends and patterns in customer satisfaction
-- Explore potential factors that influence customer experience
-- Present findings in a clear, business-friendly format
-- Use analysis and forecasting concepts to support data-driven recommendations
+- Analyze Nintendo Switch sales from 2017 to 2024
+- Identify peak years, quarters, and performance trends
+- Compare regional sales performance
+- Build KPIs to summarize business performance
+- Translate sales data into clear business insights
+- Present recommendations through a structured case study
 
 ## Skills Demonstrated
 
-- Data cleaning and preparation
-- Business analytics
-- Customer satisfaction analysis
-- Forecasting concepts
-- Trend identification
-- Report writing
-- Presentation design
-- Data-driven decision-making
+- Product sales analysis
+- KPI development
+- Trend analysis
+- Regional performance analysis
+- Business reporting
+- Market research
+- Data storytelling
+- Data-driven recommendations
 
 ## Tools & Technologies
 
 - Excel
-- Python
-- Data cleaning techniques
-- Forecasting concepts
-- Business analytics reporting
-- Presentation documentation
+- Tableau
+- Data cleaning
+- Data visualization
+- Business analytics
+- Reporting and presentation
 
 ## Key Takeaways
 
-This project demonstrates my ability to take raw customer experience data, clean and organize it, identify meaningful patterns, and communicate insights in a way that supports business decisions. It also reflects my interest in using analytics to improve operations, customer experience, and service quality.
+This project demonstrates my ability to analyze product sales data, identify meaningful business trends, and communicate findings through a clear case study format. It also shows how I approach analytics from a business perspective by connecting numbers to market performance, customer behavior, and strategic recommendations.
 
 ## How to View
 
-Open the PDF report and presentation deck directly from the repository:
+Open the PDF case study directly from the repository:
 
-- `In-depth Analysis of Airline Customer Satisfaction .pdf`
-- `Customer Satisfaction Analysis - PPT.pdf`
+- `Nintendo Switch Case Study.pdf`
 
 ## Author
 
