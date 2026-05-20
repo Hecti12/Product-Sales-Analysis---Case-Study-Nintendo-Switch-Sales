@@ -1,5 +1,7 @@
 # Product Sales Analysis: Nintendo Switch Case Study
 
+### [Tableau Vizualization](https://public.tableau.com/app/profile/hector.enriquez.orellana/viz/NintendoSwitchSalesAnalysis_17561042169100/Dashboard1/)
+
 ## Project Overview
 
 This business analytics project analyzes Nintendo Switch sales performance from 2017 to 2024. The project focuses on identifying sales trends, peak performance periods, regional performance differences, and business insights that can support product strategy and market decision-making.
